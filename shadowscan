@@ -1,1 +1,24 @@
+# 🔍 ShadowScan
+
+**ShadowScan**, hedef sistemler üzerinde gelişmiş keşif (recon) ve güvenlik taramaları gerçekleştirmek için geliştirilmiş Python tabanlı hafif bir araçtır.
+
+## 🚀 Özellikler
+
+* Hızlı ve etkili hedef analizi
+* Soket tabanlı bağlantı ve hata yönetimi
+* Kolay kullanım ve sade arayüz
+
+## ⚙️ Kurulum
+
+Depoyu bilgisayarınıza (veya Termux ortamına) klonlayın ve gerekli kütüphaneleri yükleyin:
+
+```bash
+# Depoyu klonlayın
+git clone [https://github.com/Counc/shadowscan.git](https://github.com/Counc/shadowscan.git)
+
+# Proje dizinine girin
+cd shadowscan
+
+# Gerekli bağımlılıkları yükleyin
+pip install -r requirements.txt
 
