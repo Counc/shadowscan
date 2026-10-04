@@ -1,0 +1,17 @@
+# Python geçici dosyaları ve önbellekler
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam klasörleri (venv, env vb.)
+venv/
+env/
+ENV/
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
+
+# Editör/IDE ayarları (VS Code vb.)
+.vscode/
+.idea/
